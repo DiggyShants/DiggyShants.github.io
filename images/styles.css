@@ -86,6 +86,10 @@ main{
   .images li img{
     max-width: 100%;
   }
+  aside {
+    background: #F4F4F4;
+    padding: 20px;
+  }
   footer{
     background: #F63232;
     color: white;
