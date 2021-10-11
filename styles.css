@@ -57,7 +57,7 @@ main{
     box-sizing: border-box;
   }
   article h2{
-    color: #F63232;
+    color: #FFA101;
     font-size: 48px;
   }
   article p{
@@ -87,7 +87,7 @@ main{
     max-width: 100%;
   }
   footer{
-    background: #F63232;
+    background: #FFA101;
     color: white;
     padding: 10px;
     text-align: center;
